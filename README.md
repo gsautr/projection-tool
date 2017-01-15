@@ -27,7 +27,3 @@ Be sure to set up all the measurements properly! They are;
 ## Method
 
 Tie a weight to a piece of string and dangle it from the lens / ceiling.
-
-## Results
-
-Once these are set up you can use the two measurements to set up the position of box and projector.
