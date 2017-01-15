@@ -9,7 +9,7 @@ This tool can be used to work out **two measurements**
 
 ## Download
 
-Download the tool [here](https://github.com/autr/projection-tool/releases/download/1.0.0/projection-tool.app.zip)
+Download the tool for Macintosh [here](https://github.com/autr/projection-tool/releases/download/1.0.0/projection-tool.app.zip)
 
 ## Configuration
 
@@ -21,6 +21,10 @@ Be sure to set up all the measurements properly! They are;
 * **Box length** - length dimension
 * **Ceiling** - the height of the ceiling where the projector is mounted
 * **Lens distance** - the distance of the lens from the ceiling (important!)
+
+## Method
+
+Tie a weight to a piece of string and dangle it from the lens / ceiling.
 
 ## Results
 
