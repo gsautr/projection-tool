@@ -1,5 +1,7 @@
 # Projection Tool
 
+![screenshot](https://github.com/autr/projection-tool/blob/master/screenshot.png)
+
 ## Introduction
 
 This tool can be used to work out **two measurements**
