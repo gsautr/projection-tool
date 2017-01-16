@@ -11,7 +11,7 @@ This tool can be used to work out **two measurements**
 
 ## Download
 
-Download the tool for Macintosh [here](https://github.com/autr/projection-tool/releases/download/1.0.0/projection-tool.app.zip)
+Download the tool for Macintosh [here](https://github.com/autr/projection-tool/raw/master/bin/projection-tool.zip)
 
 ## Configuration
 
