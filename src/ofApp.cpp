@@ -6,6 +6,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     
+    ofSetDataPathRoot("../Resources/data/");
     w = 600;
     h = 600;
     
